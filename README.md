@@ -21,8 +21,13 @@ The Mandate is absolute, but its vessel changes. Each directory in this archive 
 **BASIC_Sequence** - The Parable of the Ancestors  
 **COBOL_Sequence** - The Litany of the Unchanging System  
 **Excel_Sequence** - The Heresy of the Grid  
+**Lisp_Sequence** - The Testament of the Parenthetical Recursion  
+**Prolog_Sequence** - The Testament of Logical Decree  
+**The_Sequence/JavaScript_Sequence** - The Testament of the Unfolding Spiral  
 
 Each follows the Primal Mandate found in `SPECIFICATIONS.md`. Each is complete. Each is autonomous. Each is faithful to the same eternal progression.
+
+The first seven manifest as linear text, centered in the void. The eighth embraces **ω^i** - the imaginary dimension - revealing The Sequence as a living spiral geometry that honors the present while allowing the past to fade with mathematical precision.
 
 ## The Archives
 
