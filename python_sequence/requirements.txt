@@ -1,0 +1,2 @@
+# The Sequence requires only Python standard library
+# No external dependencies needed
